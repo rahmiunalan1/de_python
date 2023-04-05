@@ -7,3 +7,6 @@ def factorial(n):
 n = 5
 r = factorial(n)
 print(f"Factorial of {n} is {r}")
+
+def yaz():
+    print("This is going to be printed")
